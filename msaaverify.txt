@@ -1,0 +1,10 @@
+
+<a href="https://msaaverify.codeplex.com/">MsaaVerify</a>
+<p><strong><a href="https://msaaverify.codeplex.com/">MsaaVerify</a></strong> is a testing tool that verifies whether properties and methods off of the IAccessible interface (<abbr title="Also Known As">aka</abbr> Microsoft Active Accessibility) meet the guidelines specified in the MSAA documentation on MSDN
+
+STOP! - PLEASE READ - Update 12 Feb 2008
+So you are looking for an accessibility testing tool... that's pretty cool in my book. So here are a few things you should know. I've uploaded the original MsaaVerify (from GotDotNet in 2004) as its own release here on CodePlex. In that release, you'll find its source code, a specification document (make sure to read to see what is tested and what isn't), and a test app. In other words, use this version for actual testing!
+
+<a href="https://msaaverify.codeplex.com/releases/view/10674">ORIGINAL MsaaVerify: Original Version From GotDotNet</a>
+
+
